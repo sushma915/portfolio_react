@@ -31,7 +31,7 @@ export default function Contact() {
               <div>
                 <div className="cl-key">Email</div>
                 <a 
-                href="mailto:thotasushma15@gamil.com"
+                href="mailto:thotasushma15@gmail.com"
                 className="cl-link"
                 title="Send Email"
                 >Mail me</a>

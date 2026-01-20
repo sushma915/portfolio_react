@@ -1,18 +1,4 @@
 export default function About() {
-  // ✅ Internships info kept for FUTURE use (not displayed now)
-  // const internships = [
-  //   {
-  //     role: "Full Stack Development Intern",
-  //     company: "SureTrust ProEd",
-  //     mode: "Ongoing",
-  //   },
-  //   {
-  //     role: "AI/ML Intern",
-  //     company: "SkillDzire Technologies",
-  //     mode: "Remote",
-  //   },
-  // ];
-
   return (
     <section className="section about" id="about">
       <div className="about-grid">
