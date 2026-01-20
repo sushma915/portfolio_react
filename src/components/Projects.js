@@ -27,8 +27,8 @@ export default function Projects() {
       img: `${BASE}/projects/portfolio.jpg`,
       status: "Completed",
       tags: ["React", "CSS", "Design"],
-      github: "https://github.com/swethareddy17/my-portfolio",
-      live: "https://swethareddy17.github.io/my-portfolio/",
+      github: "https://github.com/sushma915/React_portfolio.git",
+      live: "#",
     },
     {
       title:
